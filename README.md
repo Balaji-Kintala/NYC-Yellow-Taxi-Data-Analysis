@@ -12,14 +12,14 @@ This project analyzes January 2025 NYC Yellow Taxi trip data using Python to ide
 - Jupyter Notebook
 
 ## Project Workflow
-1. Data loading and understanding
-2. Data quality assessment
-3. Data cleaning
-4. Feature engineering
-5. Statistical analysis
+1. Data Loading and Understanding
+2. Data Quality Assessment
+3. Data Cleaning
+4. Feature Engineering
+5. Statistical Analysis
 6. Exploratory Data Analysis (EDA)
-7. Data visualization
-8. Business insights and conclusion
+7. Data Visualization
+8. Business Insights and Conclusion
 
 ## Key Findings
 - Busiest pickup hour: 6:00 PM
@@ -33,10 +33,10 @@ This project analyzes January 2025 NYC Yellow Taxi trip data using Python to ide
 
 ## Project Files
 - `NYC_Yellow_Taxi_Data_Analysis.ipynb` — Python analysis notebook
-- `NYC YELLOW TAXI TRIP DATA ANALYSIS.docx` — project report
+- `NYC_Yellow_Taxi_Data_Analysis_Report.pdf` — final project report in PDF format
 
 ## Dataset
 The analysis uses January 2025 NYC Yellow Taxi trip data in Parquet format.
 
 ## Conclusion
-The project explores trip patterns, time-based demand, trip distances and durations, passenger data, and unusual records. Data limitations are considered when interpreting the results.
+This project explores trip patterns, time-based demand, trip distances and durations, passenger data, common routes, and unusual records. Data quality limitations are considered when interpreting the results.
